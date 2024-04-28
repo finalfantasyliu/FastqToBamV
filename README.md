@@ -26,7 +26,7 @@ The generation of Bam files is a fundamental prerequisite for subsequent operati
   git clone https://github.com/finalfantasyliu/FastqToBam
   ```
 
-2.  Due to file size limitations on GitHub, please download the dependency file from the following link and decompress it.
+2. Due to file size limitations on GitHub, please download the dependency file from the following link and decompress it.
 
   ```html
   https://drive.google.com/file/d/1k9GrfRu0FWOKg8g2IPEoO0H_TR7tYHHq/view?usp=sharing
